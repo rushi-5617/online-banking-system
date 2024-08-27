@@ -1,19 +1,28 @@
-## Getting Started
+Online Banking System
+This project is a simple online banking application designed to provide users with essential banking functionalities. Built using Java, Java Swing, MySQL and JDBC through VS Code, it features a user-friendly interface for performing operations such as account creation, balance checking, money transfer, and transaction history viewing.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Features:-
+Account Creation: Sign up with personal details and receive an account ID and PIN.
+User Dashboard: View account details, balance, and perform various banking operations.
+Send Money: Transfer funds between accounts.
+View Balance: Check current account balance.
+Transaction History: View past transactions.
 
-## Folder Structure
+Technologies:-
+Java
+Java Swing
+MySQL
+JDBC
+VS Code
 
-The workspace contains two folders by default, where:
+Setup:-
+Clone the repository.
+Set up the MySQL database and configure the connection.
+Run the Java application to start the banking system.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Usage:-
+Sign Up: Create a new account.
+Login: Access your account with the generated ID and PIN.
+Dashboard: Navigate through various banking functionalities.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-"# CODECLAUSE" 
+Thank you!
