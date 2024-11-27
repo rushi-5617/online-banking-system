@@ -1,9 +1,9 @@
 import java.sql.*;
 
 public class DatabaseConnection {
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/bank_db";
-    private static final String USER = "root";
-    private static final String PASS = "r1u2s3h4i5@RK9";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/your_mysql_dbName";
+    private static final String USER = "your_mysql_username";
+    private static final String PASS = "your_mysql_password";
     private Connection conn;
 
     public DatabaseConnection() {
